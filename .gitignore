@@ -1,0 +1,9 @@
+/node_modules
+/node_modules/*
+session.json
+media/*
+!media/.gitkeep
+!mediaSend/.gitkeep
+!mediaSend/nota-de-voz.mp3
+.env
+.wwebjs_auth

@@ -1,0 +1,202 @@
+[
+    {
+        "keywords": [
+            "Hola",
+            "hola",
+            "HOLA",
+            "Hola.",
+            "hola.",
+            "HOLA.",
+            "Buenos días",
+            "Buenos dias",
+            "Buenos Días",
+            "buenos días",
+            "buenos Días",
+            "buenos Dias",
+            "BUENOS DIAS",
+            "BUENOS DÍAS",
+            "Buenas tardes",
+            "Buenas tardes",
+            "Buenas Tardes",
+            "buenas tardes",
+            "buenas Días",
+            "buenas Tardes",
+            "BUENAS TARDES",
+            "Información",
+            "informacion",
+            "Buenas"
+        ],
+        "key":["SALUDO"]
+    },
+    {
+        "keywords": [
+            "Ayuda",
+            "ayuda",
+            "Ayuda.",
+            "ayuda.",
+            "ayuds",
+            "Ayuds",
+            "ayuds.",
+            "Ayuds.",
+            "AYUDA"
+        ],
+        "key": ["BIENVENIDA"]
+    },
+    {
+        "keywords": [
+            "A", "a", "a.", "A."
+        ],
+        "key": "PEDIDO"
+    },
+    {
+        "keywords": [
+            "1", "1."
+        ],
+        "key": "CONSUMOCOMPRA"
+    }, {
+        "keywords": [
+            "2", "2."
+        ],
+        "key": "QUIEROVENDER"
+    }, {
+        "keywords": [
+            "B", "b", "B.", "b."
+        ],
+        "key": "ATENCIONEMPRESARIA"
+    }, {
+        "keywords": [
+            "G", "G.", "g", "g."
+        ],
+        "key": "VERCOMPRAROFERTAS"
+    }, {
+        "keywords": [
+            "H", "H.", "h", "h."
+        ],
+        "key": "PE"
+    }, {
+        "keywords": [
+            "I", "I.", "i", "i."
+        ],
+        "key": "CAMBIOSGUIARETORNO"
+    }, {
+        "keywords": [
+            "J", "J.", "j", "j."
+        ],
+        "key": ["REGISTRODEPAGOS"]
+    }, {
+        "keywords": [
+            "K", "K.", "k", "k."
+        ],
+        "key": ["REFERIDOS"]
+    }, {
+        "keywords": [
+            "L", "L.", "l", "l."
+        ],
+        "key": ["SEGUIMIENTODEENVIO"]
+    }, {
+        "keywords": [
+            "M", "M.", "m", "m."
+        ],
+        "key": ["IMAGENESREDESSOCIALES"]
+    }, {
+        "keywords": [
+            "N", "N.", "n", "n."
+        ],
+        "key": ["PLANDEPREMIOS"]
+    }, {
+        "keywords": [
+            "O",
+            "O.",
+            "o",
+            "o.",
+            "0.",
+            "0"
+        ],
+        "key": ["OTRAOPCION"]
+    }, {
+        "keywords": [
+            "C", "c", "C.", "c."
+        ],
+        "key": ["QUIEROVERLOSCATALOGOS"]
+    }, {
+        "keywords": [
+            "3", "3."
+        ],
+        "key": ["CXSPORT"]
+    }, {
+        "keywords": [
+            "4", "4."
+        ],
+        "key": ["GLOD"]
+    }, {
+        "keywords": [
+            "5", "5."
+        ],
+        "key": ["MIANGEL"]
+    }, {
+        "keywords": [
+            "P", "P.", "p", "p."
+        ],
+        "key": ["C3ACATALOGOENVENTA"]
+    }, {
+        "keywords": [
+            "Q", "Q.", "q", "q."
+        ],
+        "key": ["C3BCATALOGOPREVENTA"]
+    }, {
+        "keywords": [
+            "R", "R.", "r", "r."
+        ],
+        "key": ["C3CPREMIOSACUMULABLES"]
+    }, {
+        "keywords": [
+            "6", "6."
+        ],
+        "key": ["EQUILIBRIO"]
+    }, {
+        "keywords": [
+            "7", "7."
+        ],
+        "key": ["VENTURO"]
+    }, {
+        "keywords": [
+            "8", "8."
+        ],
+        "key": ["MCJ"]
+    }, {
+        "keywords": [
+            "9", "9."
+        ],
+        "key": ["PRODUCTOSLIMPIEZA"]
+    }, {
+        "keywords": [
+            "D", "d", "D.", "d."
+        ],
+        "key": ["INSCRIPCIONGRATIS"]
+    }, {
+        "keywords": [
+            "E", "e", "E.", "e."
+        ],
+        "key": ["QUIEROSERLIDER"]
+    }, {
+        "keywords": [
+            "F", "f", "F.", "f."
+        ],
+        "key": ["LLAMADAASESOR"]
+    }, {
+        "keywords": [
+            "Gracias",
+            "gracias",
+            "GRACIAS",
+            "Gracias.",
+            "gracias.",
+            "GRACIAS.",
+            "Chao",
+            "chao",
+            "Adios",
+            "Hasta luego",
+            "Hasta Luego"
+        ],
+        "key": ["DESPEDIDA"]
+    }
+]

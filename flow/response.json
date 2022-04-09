@@ -1,0 +1,295 @@
+{
+    "SALUDO": {
+        "replyMessage": ["Ey Bienvenid@ es un placer tenerte por aquí, escribe la palabra *AYUDA* para tener una atención *INMEDIATA*"]
+    },
+    "BIENVENIDA": {
+        "replyMessage": [
+            "🎊 ¡Bienvenid@ a *CATÁLOGOS DE MIRY*! tu negocio On Line🎊\n",
+            "Por favor ELIGE LA OPCIÓN QUE NECESITAS para tu atención: 👇\n\n",
+            "A. Pedidos.\n",
+            "*B. Atención a empresaria registrada.*\n",
+            "C. Envíeme los catálogos + INFORMACIÓN Y PREMIOS.\n",
+            "D. Inscripción *Gratis*.\n",
+            "E. Quiero ser líder *FORMAR* mi red de vendedoras (No quiero vender). \n",
+            "F. Que un asesor me llame WHATSAPP o TELÉFONO. \n",
+            "G. Ver y Comprar las *Ofertas*"
+        ]
+    },
+    "PEDIDO": {
+        "replyMessage": ["Indicanos ¿Qué deseas hacer? \n\n", "1. Quiero Solo Para Consumo - Compra \n", "2. Quiero Vender"]
+    },
+    "CONSUMOCOMPRA": {
+        "replyMessage": [
+            "Por favor ayudeme con los códigos y la respectiva marca.\n",
+            "Y en unos minutos le enviamos su valor a pagar.\n",
+            "EL DESPACHO ES INMEDIATO UNA VEZ DEPOSITADO LE LLEGA SU PEDIDO x SERVIENTREGA ENTRE 24h Y 48h \n",
+            "También le enviamos el link donde puede encontrar prendas con el 50% y el 70% de descuento, clic aquí 👇👇 \n",
+            "https://wa10x.me/cxsports/593990781559"
+        ]
+    },
+    "QUIEROVENDER": {
+        "replyMessage": ["Por favor ayudeme con los códigos y la respectiva marca.\n", "Y en unos minutos le enviamos su valor a pagar.\n", "EL DESPACHO ES INMEDIATO UNA VEZ DEPOSITADO LE LLEGA SU PEDIDO x SERVIENTREGA ENTRE 24h Y 48h"]
+    },
+    "ATENCIONEMPRESARIA": {
+        "replyMessage": [
+            "Por favor escoja una de las opciones para tu atención: 👇 \n\n",
+            "H. Pedidos.\n",
+            "I. Cambios - Guías de Retorno.\n",
+            "J. Registro de Pagos.\n",
+            "K. Refiere y Gana tu Bono.\n",
+            "L. Seguimiento de tus Pedidos Enviados.\n",
+            "M. Imágenes Para Redes Sociales.\n",
+            "N. Plan de Premios Vigente.\n",
+            "O. Otra Opción."
+        ]
+    },
+    "PE": {
+        "replyMessage": ["Por favor ayudeme con los códigos y la respectiva marca. \n", "Y en unos minutos le damos su valor a pagar."]
+    },
+    "CAMBIOSGUIARETORNO": {
+        "replyMessage": ["La forma de realizar en cambio es la siguientes: "],
+        "media": "../media/Audio.ogg"
+    },
+    "REGISTRODEPAGOS": {
+        "replyMessage": ["Con gusto envianos tu comprobante del depósito o  transferencia ANTES QUE SE ELIMINE TU PEDIDO 🧐\n", "Recuerda tu pedido te llega entre 24h a 48h siempre y cuando nos reportes tu pago hasta *MEDIODÍA*"]
+    },
+    "REFERIDOS": {
+        "replyMessage": ["📍 REFIERE A 1️⃣ AMIGA QUE PASE SU PEDIDO DE: 💲1️⃣0️⃣0️⃣ FACTURA 👩🏻‍💼\n", "📍 TU ACTÍVATE CON UN PEDIDO DE💲5️⃣0️⃣ Y GANAS UN BONO DE 💲1️⃣0️⃣ con transferencia a tu cuenta bancaria o saldo a favor a tu pedido de $50 🤩🥳"]
+    },
+    "SEGUIMIENTODEENVIO": {
+        "replyMessage": ["Con gusto enviame tu comprobante de pago, fecha y la marca. Daremos seguimiento a tu pedido. En unos minutos te daremos una respuesta."]
+    },
+    "IMAGENESREDESSOCIALES": {
+        "replyMessage": ["¿De qué marca desea?\n", "Un placer enseguida enviaremos publicidad para tus redes."]
+    },
+    "PLANDEPREMIOS": {
+        "replyMessage": ["¿De qué marca desea? \n", "Un placer enseguida te enviaremos para que ganes tu *PREMIO*"]
+    },
+    "OTRAOPCION": {
+        "replyMessage": ["Un placer poder ayudarte\n", "¿Cuál es tu requerimiento?"]
+    },
+    "QUIEROVERLOSCATALOGOS": {
+        "replyMessage": [
+            "ESCOJA LAS MARCAS QUE DESEE PARA ENVIARLE LA INFORMACIÓN + EL CATÁLOGO \n\n",
+            "*3. CX* MODA DEPORTIVA Y CASUAL *30%* \n",
+            "*4. GLOD* MODA CASUAL Y VARIOS *40%*\n",
+            "*5. MI ANGEL* MODA CASUAL + TALLAS PLUS *30% - 35%*\n",
+            "*6. EQUILIBRIO* CALZADO *30%* \n",
+            "*7. VENTURO* CALZADO *30%* \n",
+            "*8. MCJ* HOGAR *30%* \n",
+            "*9. BOOM* LIMPIEZA HOGAR *15% - 30%*"
+        ]
+    },
+    "CXSPORT": {
+        "replyMessage": [
+            "*BIENVENID@ CXSPORTS 25 AÑOS EN EL MERCADO*\n",
+            "Tiene el *30% de Ganancias + Premios*\n",
+            "Envíos *INMEDIATOS* a Ecuador mediante Servientrega, digitamos tus pedidos todos los días.\n\n",
+            "📍 PEDIDO mínimo de 2 Prendas \n",
+            "📌 *NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n",
+            "📌 Entrega de 24 a 48 horas laborables una vez depositado.\n",
+            "📌 PASE pronto su pedido hay una Alta Demanda y se agotan las prendas.\n",
+            "📌 La vigencia del catálogo es de *1 mes*\n",
+            "📌 Somos únicos con Planta de Producción.\n\n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n",
+            "https://drive.google.com/file/d/1kQwkFNmAKj-n6YIjXHxFVJN4Q4GNzdyc/view?usp=sharing"
+        ],
+        "media": "../media/CX-SPORT/1.jpeg",
+        "media1": "../media/CX-SPORT/2.jpeg",
+        "media2": "../media/CX-SPORT/3.jpeg",
+        "media3": "../media/CX-SPORT/4.jpeg",
+        "media4": "../media/CX-SPORT/CX55-NF61.pdf"
+    },
+    "GLOD": {
+        "replyMessage": [
+            "*DESCUENTO DE:* \n",
+            "✅ *En Ropa 40%* \n",
+            "✅ *En Calzado 30%* \n",
+            "✅ *Productos de Aseo y Belleza 20%* \n",
+            "Envíos *INMEDIATOS* a Ecuador mediante Servientrega.\n",
+            "📌 Digitamos tus pedidos todos los días.\n",
+            "📌*PASE su pedido* y le damos su valor a pagar, deposita y el pedido se envía enseguida.\n",
+            "📌 *NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n\n",
+            "📌 Entrega de 24 a 48 horas laborables una vez depositado.\n",
+            "📌 Hay una Alta Demanda y se agotan las prendas.\n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n",
+            "https://drive.google.com/file/d/1W2c3yjdIyP69ttqj-ESLnzg_uh_xpm6z/view?usp=sharing"
+        ]
+    },
+    "MIANGEL": {
+        "replyMessage": ["ESCOJA LA OPCIÓN QUE DESEA INFORMACIÓN.\n\n", "P. Catálogo del mes en curso venta actual.\n", "Q. Catálogo del mes siguiente reserva tu preventa.\n", "R. Plan de Premios Acumulables Abril, Mayo y Junio."]
+    },
+    "C3ACATALOGOENVENTA": {
+        "replyMessage": [
+            "📌 *Tienes el 30% de descuento* en el catálogo actual del mes ABRIL. \n",
+            "📌 *PASE su pedido* y le damos su valor a cancelar.\n",
+            "📌 *Una vez depositado llega en 48h por Servientrega EN LA VENTA*.\n",
+            "📌 Pedido *IDEAL 5 prendas + premio + ENVÍO GRATIS*.\n",
+            "📌 Digitamos tus pedidos todos los días.\n",
+            "📌 *NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n\n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n",
+            "https://drive.google.com/file/d/1Fwh4tgPJ8IijNkJ0XfzFIQg942YywZe_/view?usp=sharing"
+        ]
+    },
+    "C3BCATALOGOPREVENTA": {
+        "replyMessage": [
+            "📌 *Comienza el despacho el 26 de Abril con el Siguiente DESCUENTO*\n",
+            "📌 *En Preventa:*\n",
+            "📌 35% *Del 2 al 13 de Abril*\n",
+            "📌 32% *De Ganancia del 14 al 25 de Abril*\n",
+            "📌 Despacho del *26 de Abril* es el catálogo del *Siguiente mes MAYO*\n",
+            "*Aquí reservas tu pedido a través de la PREVENTA*\n",
+            "📌 Pedido IDEAL 5 prendas + premio + *ENVÍO GRATIS*.\n",
+            "📌 Envíos a Ecuador mediante Servientrega, digitamos tus pedidos todos los días.\n",
+            "📌 *NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n",
+            "📌 Hay una Alta Demanda y se agotan las prendas.\n",
+            "📌 La vigencia del catálogo es de 1 mes *VENTA* y 1 mes en *PREVENTA*\n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n",
+            "https://drive.google.com/file/d/1XxecgOep1yb9smujyjXLXjNAhH5o5pR-/view?usp=sharing"
+        ]
+    },
+    "C3CPREMIOSACUMULABLES": {
+        "replyMessage": [
+            "*Plan de Fidelidad x 3 Campañas* 🎁 \n",
+            "*Desde C-4 Abril*\n",
+            "*Acumula tus compras x 3 Campañas Seguidas* en campaña C-4, C-5, C-6\n",
+            "Mayo, Junio y Julio\n",
+            "📌 *Nivel Oro: 25 prendas incluye 1 pedido ideal.*\n",
+            "*GANA: Olla Arrocera + Sanduchera + Juego de Cuchillos.* \n",
+            "CANJEA en C-7 con un pedido ideal. \n",
+            "📌 *Nivel Plata: 18 prendas incluye 1 pedido ideal.*\n",
+            "*GANA: Olla Arrocera + Sanduchera.* \n",
+            "CANJEA en C-7 con un pedido ideal.\n",
+            "📌 *Nivel Bronce: 10 prendas incluye 1 pedido ideal.*\n",
+            "*GANA: Olla Arrocera.* \n",
+            "CANJEA en C-7 con un pedido ideal.\n\n",
+            "No puedes bajar de categorización.\n",
+            "*IMPORTANTE* Debes completar tu meta deseada Abril, Mayo y Junio.\n\n",
+            "🎉Éxitos y a ganar se ha dicho🎉\n\n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n"
+        ],
+        "media": ["../media/MiAngel/Premios/1.jpeg"]
+    },
+    "EQUILIBRIO": {
+        "replyMessage": [
+            "*Bienvenid@ Ventas x Catálogo EQUILIBRIO* 📲 \n",
+            "*Calzado Deportivo y Casual* 🤩\n",
+            "📌 Pedido mínimo 2 PARES. \n",
+            "✅ *Ganancia 30% + Planes de Premios.*\n",
+            "📌 Envíos a Ecuador mediante Servientrega, digitamos tus pedidos todos los días.\n",
+            "📌*NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n",
+            "📌 Entrega de 24 a 48 horas laborables VENTA\n",
+            "📌 *En Preventa* despacho el 13 de Abril. \n",
+            "📌 Hay una Alta Demanda y se agotan.\n",
+            "📌👀 *Vigencia 2 Meses* 👇👇 \n",
+            "👟🥾 *Aprovecha para pasa pronto tu pedido.* 🙋🏻‍♀️🧏🏻‍♀️ \n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n",
+            "https://drive.google.com/file/d/1P5_oiOBXT3_wGy4n105cZblgWFYnyvVX/view?usp=sharing"
+        ],
+        "media": "../media/Equilibrio/1EQ.jpeg"
+    },
+    "VENTURO": {
+        "replyMessage": [
+            "*Bienvenid@ Ventas x Catálogo VENTURO* 📲 \n",
+            "*Calzado Deportivo y Casual* 🤩\n",
+            "📌 Pedido mínimo 2 PARES. \n",
+            "✅ *Ganancia 30%.*\n",
+            "📌 Envíos a Ecuador mediante Servientrega, digitamos tus pedidos todos los días.\n",
+            "📌*NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n",
+            "📌 Entrega de 24 a 48 horas laborables.\n",
+            "📌 Hay una Alta Demanda y se agotan.\n",
+            "📌👀 *Vigencia 2 Meses* 👇👇 \n",
+            "👟🥾 *Aprovecha para pasa pronto tu pedido.* 🙋🏻‍♀️🧏🏻‍♀️ \n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n"
+        ]
+    },
+    "MCJ": {
+        "replyMessage": [
+            "*Bienvenid@ Ventas x Catálogo MCJ* 📲 \n",
+            "*Artículos Para El Hogar Y Calzado* 🤩\n",
+            "📌 Pedido mínimo $30 dólares Precio Factura. \n",
+            "✅ *Ganancia 30%.*\n",
+            "📌 Envíos a Ecuador mediante Servientrega, digitamos tus pedidos todos los días.\n",
+            "📌*NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n",
+            "📌 Entrega de 24 a 48 horas laborables.\n",
+            "📌 Hay una Alta Demanda y se agotan.\n",
+            "📌👀 *Vigencia 2 Meses* 👇👇 \n",
+            "👟🥾 *Aprovecha para pasa pronto tu pedido.* 🙋🏻‍♀️🧏🏻‍♀️ \n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n",
+            "https://drive.google.com/file/d/1qvWwDrZ0XPOQn-DWmv67keQFA3rrNhxF/view?usp=sharing"
+        ]
+    },
+    "PRODUCTOSLIMPIEZA": {
+        "replyMessage": [
+            "*Bienvenid@ Ventas x Catálogo BOOM* 📲 \n",
+            "Tu Negocio BOOM 📈 Únete ¡Oportunidad! \n",
+            "Quieres vender estos productos con el Descuento + Premios. \n",
+            "Pasa tu pedido mìnimo de $3️⃣5️⃣ el 15% \n",
+            "✅ De 50 dólares el 25% \n",
+            "✅ De 100 dólares el 30% \n",
+            "✅ De 500 dólares el 35% \n",
+            "Precio Catálogo\n",
+            "📌 *NEGOCIO DE CONTADO* pedido cancelado, pedido enviado.\n",
+            "📌 Entrega 1 vez por semana según tu lugar de entrega. \n",
+            "📌 Hay una Alta Demanda y se agotan.\n",
+            "📌👀 *Vigencia 3 Meses* 👇👇 \n",
+            "👟🥾 *Aprovecha para pasa pronto tu pedido.* 🙋🏻‍♀️🧏🏻‍♀️ \n",
+            "*IMPORTANTE*\n",
+            "📌 Agregue este # a su agenda en este *MOMENTO* que le llegue a tiempo la información.\n\n",
+            "VER CATÁLOGO 👇👇\n",
+            "https://drive.google.com/file/d/1kZjn4x81WniQhL3j5xb0kgWgY9JDjg4x/view?usp=sharing"
+        ]
+    },
+    "INSCRIPCIONGRATIS": {
+        "replyMessage": [
+            "Con gusto nos envía sus datos para registrarle y darle la información para que inicie sus ventas *INMEDIATAS* x Catálogo.\n",
+            "Luego de Llenar enviar sus datos digite la letra *C* \n",
+            "Nombres Completos\n",
+            "N. Cédula\n",
+            "Correo\n",
+            "WhatsApp \n",
+            "Dirección: \n",
+            "- Provincia\n",
+            "- Cantón\n",
+            "- Parroquia\n",
+            "- Barrio\n",
+            "- Calles N. De Casa\n",
+            "- Color y número de pisos\n",
+            "- Alguna referencia."
+        ]
+    },
+    "QUIEROSERLIDER": {
+        "replyMessage": ["Con gusto te explicamos cuál es el proceso a seguir"],
+        "media": "../media/AUDIO-E.ogg"
+    },
+    "LLAMADAASESOR": {
+        "replyMessage": ["Con mucho gusto enseguida nos contactamos para ayudarte con tus requerimientos."]
+    },
+    "VERCOMPRAROFERTAS": {
+        "replyMessage": [
+            "Con mucho gusto puede revisar las ofertas con 50 y 70% de descuento.\n",
+            "Estos precios ya son netos y no tienen + descuentos.\n",
+            "*Nota:* En caso que no se le cargue el link, puede probar en otro dispositivo (Celular).\n\n",
+            "Este link se actualiza con mercadería nueva *Cada 15 días* clic aquí 👇👇 \n",
+            "https://wa10x.me/cxsports/593990781559"
+        ]
+    },
+    "DESPEDIDA": {
+        "replyMessage": ["Es un placer ayudarte, te esperamos pronto."]
+    }
+}
